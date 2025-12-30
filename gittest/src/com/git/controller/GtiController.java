@@ -11,7 +11,7 @@ public class GtiController {
 	
 
 	public String test() {
-		return "test";
+		return "text";
 	}
 
 
