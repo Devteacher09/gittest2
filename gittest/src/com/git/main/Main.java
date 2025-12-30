@@ -7,5 +7,7 @@ public class Main {
 		int a=10;
 		int b=20;
 		new GtiController().calc(a,b);
+		System.out.println("jjj수정");
+		//1234
 	}
 }
