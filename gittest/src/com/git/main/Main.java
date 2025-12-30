@@ -1,7 +1,11 @@
 package com.git.main;
 
+import com.git.controller.GtiController;
+
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("첫번째 코드");
+		int a=10;
+		int b=20;
+		new GtiController().calc(a,b);
 	}
 }
