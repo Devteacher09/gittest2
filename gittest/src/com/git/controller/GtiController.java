@@ -8,4 +8,8 @@ public class GtiController {
 	public double calc2(int a, int b) {
 		return a/b;
 	}
+	
+	public String test() {
+		return "test";
+	}
 }
