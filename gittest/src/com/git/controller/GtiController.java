@@ -9,7 +9,11 @@ public class GtiController {
 		return a/b;
 	}
 	
+
 	public String test() {
 		return "test";
 	}
+
+
+
 }
